@@ -59,7 +59,7 @@ evaluation values. If the square is more promising, it will get a higher value. 
 
 value for each square is shown in the following matrix. 
 
-![](h2.png)
+![](huerstic2.png)
 
 
 If the square is close to the middle column and row, it has a bigger value. For 
