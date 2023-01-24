@@ -59,7 +59,8 @@ evaluation values. If the square is more promising, it will get a higher value. 
 
 value for each square is shown in the following matrix. 
 
-swra
+![](h2.png)
+
 
 If the square is close to the middle column and row, it has a bigger value. For 
 
@@ -85,6 +86,8 @@ Test Cases: ![](Aspose.Words.6a0cb105-88bb-4fe9-bef1-50a78cf8188e.005.png)
 |3 |(343,124) |0.21371078491210938 |0.08446097373962402 |
 |4 |(2401,486) |1.3574693202972412 |0.29293155670166016 |
 |5 |(16807, 1349)|8.915432453155518 |0.7848405838012695 |
+
+
 [**Sample Run: depth =2 without pruning graph** ](https://drive.google.com/file/d/1wF3o7MbkJvjxARHUYHL9-Y6XEwoM3GGg/view?usp=share_link)
 
 ![](Aspose.Words.6a0cb105-88bb-4fe9-bef1-50a78cf8188e.006.png)
