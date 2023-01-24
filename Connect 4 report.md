@@ -1,7 +1,3 @@
-﻿**Connect-4 ![](Aspose.Words.6a0cb105-88bb-4fe9-bef1-50a78cf8188e.001.png)**
-
-
-
 |**#** |**NAME** |**ID** |
 | - | - | - |
 |**1** |**Hossam el-din ahmed** |**6721** |
@@ -63,38 +59,7 @@ evaluation values. If the square is more promising, it will get a higher value. 
 
 value for each square is shown in the following matrix. 
 
-⎡00.2.55 ⎢
-
-- 1
-- 1
-- 0.5 ⎣0.25
-
-0.5 1
-
-1 2
-
-1.5 2.5
-
-1.5 2.5
-
-1  2
-
-0.5 1
-
-2  1
-2  2 4 2.5 4 2.5
-
-3 2
-
-2 1
-
-0.5 0.25 1 0.5 ⎤
-
-1.5 1 ⎥⎥ 
-
-1.5 1 ⎥ 1 0.5 ⎥
-
-0.5 0.25⎦
+swra
 
 If the square is close to the middle column and row, it has a bigger value. For 
 
