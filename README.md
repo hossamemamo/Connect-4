@@ -6,7 +6,7 @@ Connect-4 game using pygame with AI using basic min max algorithm
 |**2** |**Ehab sherif**  |**6738** |
 |**3** |**Saeed el-sayed ahmed** |**6829** |
 
-![](https://gifyu.com/image/SmIjA)
+![](https://github.com/hossamemamo/Connect-4/blob/main/2023-01-24_08-57-01_AdobeExpress.gif)
 
 
 **HEURISTIC 1:** 
