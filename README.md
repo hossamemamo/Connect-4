@@ -5,6 +5,10 @@ Connect-4 game using pygame with AI using basic min max algorithm
 |**1** |**Hossam el-din ahmed** |**6721** |
 |**2** |**Ehab sherif**  |**6738** |
 |**3** |**Saeed el-sayed ahmed** |**6829** |
+
+![](https://gifyu.com/image/SmIjA)
+
+
 **HEURISTIC 1:** 
 
 **We look for 4 kinds of different features from the board.** 
